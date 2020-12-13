@@ -4,7 +4,7 @@ set -e
 
 echo '
 
-source $HOME/.tmux_runtime/config/tmux.conf
+source ~/.tmux_runtime/config/tmux.conf
 
 ' > $HOME/.tmux.conf
 
